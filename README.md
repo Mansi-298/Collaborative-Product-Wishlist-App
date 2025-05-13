@@ -121,12 +121,12 @@ A real-time shared wishlist application where multiple users can create, manage,
 > - add / delete a product
 ![Image](https://github.com/user-attachments/assets/4de5d14c-6f27-483a-ba02-513236d2349e)
 
-> - Demo Video
-[Watch Demo Video on Google Drive](https://drive.google.com/file/d/1Lnr8N0anjZQFIiUq9wiyQrBxJU4lzx2G/view?usp=sharing)
-
 ![Image](https://github.com/user-attachments/assets/f33617dd-1e3e-4a1b-84bd-468bdf84f890)
 
 ![Image](https://github.com/user-attachments/assets/a4ccd08b-361a-4649-a728-3bea4fb2d058)
 
 > - invite member
 ![Image](https://github.com/user-attachments/assets/8af87557-1de1-4e36-949f-a520260b251b)
+
+> - Demo Video
+[▶️ Watch Demo Video on Google Drive](https://drive.google.com/file/d/1Lnr8N0anjZQFIiUq9wiyQrBxJU4lzx2G/view?usp=sharing)
